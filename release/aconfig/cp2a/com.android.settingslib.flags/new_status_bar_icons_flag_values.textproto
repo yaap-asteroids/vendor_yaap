@@ -1,0 +1,7 @@
+# Keep the supported classic Wi-Fi, cellular and battery icon pipeline together.
+flag_value {
+    package: "com.android.settingslib.flags"
+    name: "new_status_bar_icons"
+    state: DISABLED
+    permission: READ_ONLY
+}

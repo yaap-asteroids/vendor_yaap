@@ -19,6 +19,7 @@ aconfig_value_set {
         "aconfig-values-cp2a-com.android.graphics.surfaceflinger.flags-all",
         "aconfig-values-cp2a-com.android.launcher3-all",
         "aconfig-values-cp2a-com.android.settings.flags-all",
+        "aconfig-values-cp2a-com.android.settingslib.flags-all",
         "aconfig-values-cp2a-com.android.systemui-all",
         "aconfig-values-cp2a-android.media.tv.flags-all",
         "aconfig-values-cp2a-com.android.graphics.hwui.flags-all",
